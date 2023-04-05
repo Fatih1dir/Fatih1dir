@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Fatih Birdir</h1>
 <h3 align="center">A mobile developer and a Computer Engineering student from Turkey</h3>
 
-- 🔭 I’m currently working on **Recipe App made with React-Native**
+- 🔭 I’m currently working on **Recipe App and Senior Project made with React-Native**
 
 - 🌱 I’m currently learning **Deep Learning Algorithms in Python**
 
