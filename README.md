@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Chat App made with React-Native**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin and Node.js**
 
 - 📫 How to reach me **ceng.fatih1dir@gmail.com**
 
